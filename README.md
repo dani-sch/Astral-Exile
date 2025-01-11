@@ -21,5 +21,5 @@
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/astral-exile.git
+   git clone https://github.com/dani-sch/astral-exile.git
 
